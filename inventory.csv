@@ -1,0 +1,4 @@
+SKU,Title,Fabric,ZariType,Motif,BorderStyle,Color,Occasion,MRP,GST_Slab,Qty,Artisan,Story,ImagePath
+MHW-RED-PAIS-001,Maheshwari Classic Red Paisley,Silk-Cotton,Zari,Paisley,Kadiyal,Red,Wedding,8500,5.0,5,Ahilya Ghat Cluster,"A classic red silk-cotton with kadiyal border and paisley motifs—lightweight, festive, and timeless.",assets/red_paisley.jpg
+MHW-GRN-BUTI-002,Emerald Buti Weave,Silk-Cotton,Resham,Buti,Contrast,Green,Festive,7200,5.0,3,Narmada Riverside Collective,A vibrant emerald piece with buti motifs and resham zari—perfect for celebrations and gifting.,assets/emerald_buti.jpg
+MHW-GOL-FLR-003,Golden Floral Heritage,Pure Silk,Zari,Floral,Temple,Gold,Wedding,12500,5.0,2,Maheshwar Heritage Looms,Pure silk grandeur with temple border and floral zari—crafted for classic wedding elegance.,assets/golden_floral.jpg
